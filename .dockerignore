@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+README.md
+docs
+supabase.sql
+Dockerfile
+.dockerignore
+*.md
