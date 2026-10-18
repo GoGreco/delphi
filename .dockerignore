@@ -6,4 +6,3 @@ docs
 supabase.sql
 Dockerfile
 .dockerignore
-*.md
